@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "affd72fa8a658dcb7f2bc91865a0d373",
+    "revision": "2331448bc65a409d4ae4a96d9c64f369",
     "url": "/OleksiiPasichnyk/to_do_list3/index.html"
   },
   {
-    "revision": "cdf75a73b75408f89eb7",
+    "revision": "07ed402df85a8294f95a",
     "url": "/OleksiiPasichnyk/to_do_list3/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OleksiiPasichnyk/to_do_list3/static/js/2.c3ebb0ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cdf75a73b75408f89eb7",
-    "url": "/OleksiiPasichnyk/to_do_list3/static/js/main.d9471283.chunk.js"
+    "revision": "07ed402df85a8294f95a",
+    "url": "/OleksiiPasichnyk/to_do_list3/static/js/main.69f53a5f.chunk.js"
   },
   {
     "revision": "a077a021aa718cbaea21",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/OleksiiPasichnyk/to_do_list3/static/css/main.5f361e03.chunk.css",
-    "main.js": "/OleksiiPasichnyk/to_do_list3/static/js/main.d9471283.chunk.js",
-    "main.js.map": "/OleksiiPasichnyk/to_do_list3/static/js/main.d9471283.chunk.js.map",
+    "main.js": "/OleksiiPasichnyk/to_do_list3/static/js/main.69f53a5f.chunk.js",
+    "main.js.map": "/OleksiiPasichnyk/to_do_list3/static/js/main.69f53a5f.chunk.js.map",
     "runtime-main.js": "/OleksiiPasichnyk/to_do_list3/static/js/runtime-main.f75f3682.js",
     "runtime-main.js.map": "/OleksiiPasichnyk/to_do_list3/static/js/runtime-main.f75f3682.js.map",
     "static/js/2.c3ebb0ed.chunk.js": "/OleksiiPasichnyk/to_do_list3/static/js/2.c3ebb0ed.chunk.js",
     "static/js/2.c3ebb0ed.chunk.js.map": "/OleksiiPasichnyk/to_do_list3/static/js/2.c3ebb0ed.chunk.js.map",
     "index.html": "/OleksiiPasichnyk/to_do_list3/index.html",
-    "precache-manifest.ddf0a95f38386b6f64da308f34a3d01b.js": "/OleksiiPasichnyk/to_do_list3/precache-manifest.ddf0a95f38386b6f64da308f34a3d01b.js",
+    "precache-manifest.56c50df44db60fc00898a53a1bc2c40f.js": "/OleksiiPasichnyk/to_do_list3/precache-manifest.56c50df44db60fc00898a53a1bc2c40f.js",
     "service-worker.js": "/OleksiiPasichnyk/to_do_list3/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/OleksiiPasichnyk/to_do_list3/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.c3ebb0ed.chunk.js.LICENSE.txt": "/OleksiiPasichnyk/to_do_list3/static/js/2.c3ebb0ed.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f75f3682.js",
     "static/js/2.c3ebb0ed.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d9471283.chunk.js"
+    "static/js/main.69f53a5f.chunk.js"
   ]
 }
