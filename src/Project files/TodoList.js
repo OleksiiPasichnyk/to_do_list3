@@ -7,7 +7,7 @@ function TodoList(props) {
 
     return (
         <div>
-            <center>
+            {/*<center>*/}
 
                 {todoList.map((el, index) =>
                     <TodoListItem key={el.id}
@@ -22,7 +22,7 @@ function TodoList(props) {
                     />
                 )}
 
-            </center>
+            {/*</center>*/}
         </div>
     );
 }
